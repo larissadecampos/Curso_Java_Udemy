@@ -1,12 +1,11 @@
 # Programação em Java do Básico ao Avançado
-> Aprenda Java do Básico até Orientação a Objetos, Herança e Polimorfismo, Collections, Threads e muito mais!
+Conteúdo do Curso
 
-## Conteúdo do Curso:
+- Estruturas de Controle e Decisão
+- Arrays e Funções
+- Orientação a Objetos
+- Herança e Polimorfismo
+- Classes Abstratas e Lambdas
+- Collections e Threads
+- Estruturas de Dados (Fila, Pilha, Listas Ligadas etc.)
 
-![mindmap](mindmap-curso-java-udemy.png)
-
-## Links:
-
-[https://www.udemy.com/course/programacao-em-java-essencial/](https://www.udemy.com/course/programacao-em-java-essencial/)
-
-[https://github.com/danielperesjr/CursoJavaUdemy](https://github.com/danielperesjr/CursoJavaUdemy)
